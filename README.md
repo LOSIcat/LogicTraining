@@ -28,3 +28,4 @@ Trade Remake
 3D World
 4D World
 Metaverse
+NFT
