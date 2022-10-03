@@ -29,4 +29,4 @@ Trade Remake
 4D World
 Metaverse
 NFT
-Non
+Nona
