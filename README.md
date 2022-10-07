@@ -30,3 +30,4 @@ Trade Remake
 Metaverse
 NFT
 221005~221020
+221007
